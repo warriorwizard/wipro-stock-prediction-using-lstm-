@@ -1,14 +1,4 @@
 
-<html>
-
-<head>
-<meta http-equiv=Content-Type content="text/html; charset=utf-8">
-<meta name=Generator content="Microsoft Word 15 (filtered)">
-<title>Paper Title (use style: paper title)</title>
-
-
-</head>
-
 <body lang=EN-US link="#0563C1" vlink="#954F72" style='word-wrap:break-word'>
 
 <div class=WordSection1>
