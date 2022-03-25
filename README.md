@@ -5,61 +5,6 @@
 
 <p class=papertitle>Wipro stock prediction using LSTM</p>
 
-<p class=Author style='line-height:50%'><span style='font-size:8.0pt;
-line-height:50%'>&nbsp;</span></p>
-
-</div>
-
-<span style='font-size:8.0pt;line-height:50%;font-family:"Times New Roman",serif'><br
-clear=all style='page-break-before:auto'>
-</span>
-
-
-<div class=WordSection3>
-
-<p class=MsoNormal>&nbsp;</p>
-
-</div>
-
-<span style='font-size:10.0pt;font-family:"Times New Roman",serif'><br
-clear=all style='page-break-before:auto'>
-</span>
-
-<div class=WordSection4>
-
-<p class=Author><span style='font-size:9.0pt'>&nbsp;</span></p>
-
-<p class=Author style='margin-bottom:0in;margin-bottom:0in;margin-top:0in'><span
-style='font-size:9.0pt'>&nbsp;</span></p>
-
-<p class=Author style='margin-bottom:0in;margin-bottom:0in;margin-top:0in'><span
-style='font-size:9.0pt'>&nbsp;</span></p>
-
-<p class=Author style='margin-bottom:0in;margin-bottom:0in;margin-top:0in'><span
-style='font-size:9.0pt'>&nbsp;</span></p>
-
-<p class=Author style='margin-bottom:0in;margin-bottom:0in;margin-top:0in'><span
-style='font-size:9.0pt'>&nbsp;</span></p>
-
-<p class=Author style='margin-bottom:0in;margin-bottom:0in;margin-top:0in'><span
-style='font-size:9.0pt'>&nbsp;</span></p>
-
-</div>
-
-<span style='font-size:8.0pt;font-family:"Times New Roman",serif'><br
-clear=all style='page-break-before:auto'>
-</span>
-
-<div class=WordSection5>
-
-<p class=Author style='text-align:justify;text-justify:inter-ideograph'><span
-style='font-size:8.0pt'>&nbsp;</span></p>
-
-</div>
-
-<span style='font-size:8.0pt;font-family:"Times New Roman",serif'><br
-clear=all style='page-break-before:auto'>
-</span>
 
 <div class=WordSection6>
 
